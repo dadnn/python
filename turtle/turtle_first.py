@@ -26,7 +26,7 @@ t.goto(0,-400)
 t.goto(34,-400)
 t.goto(55,-100)
 
-# make 3d
+# make 3d 
 t.goto(120,-100)
 t.goto(122,0)
 t.goto(100,0)
